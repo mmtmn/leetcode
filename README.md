@@ -12,3 +12,11 @@
 8. String to Integert (medium)
 9. Palindrome Number (easy)
 10. Regular Expression Matching (hard)
+11. Container With most Water
+12. Integer to Roman
+13. Roman to Integer
+14. Longest Common Prefix
+15. 3Sum 
+16. 3Sum Closest
+17. Letter Combinations of a Phone Number
+
